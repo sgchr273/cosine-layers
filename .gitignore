@@ -1,0 +1,17 @@
+# Ignore these directories entirely
+__pycache__/
+data/
+diag_assets/
+extra_figures/
+FFigures/
+results/
+runs/
+
+# Python / OS noise
+*.pyc
+*.pyo
+*.pyd
+*.log
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
